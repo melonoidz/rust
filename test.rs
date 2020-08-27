@@ -1,4 +1,5 @@
 fn main() {
-    // はろーわーるど！
-    println!("Hello, world!");
+    println!("test");
+    let s1:String::from("Hello World!");
+    println!("{}",s1);
 }
