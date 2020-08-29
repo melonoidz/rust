@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/target/**": true
+    },
+    "rust-client.engine" :"rust-analyzer",
+    "rust-analyzer.cargoRunner": null
+}
