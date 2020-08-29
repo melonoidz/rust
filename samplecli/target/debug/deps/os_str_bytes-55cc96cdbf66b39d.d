@@ -1,0 +1,11 @@
+/home/melonoidz/rust/samplecli/target/debug/deps/os_str_bytes-55cc96cdbf66b39d.rmeta: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/error.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/mod.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/raw.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/raw.rs
+
+/home/melonoidz/rust/samplecli/target/debug/deps/libos_str_bytes-55cc96cdbf66b39d.rlib: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/error.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/mod.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/raw.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/raw.rs
+
+/home/melonoidz/rust/samplecli/target/debug/deps/os_str_bytes-55cc96cdbf66b39d.d: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/error.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/mod.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/raw.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/raw.rs
+
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/lib.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/error.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/mod.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/raw.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-2.3.2/src/common/raw.rs:

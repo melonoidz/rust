@@ -1,0 +1,11 @@
+/home/melonoidz/rust/samplecli/target/debug/deps/proc_macro_error-545d52ec6d47de0c.rmeta: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs
+
+/home/melonoidz/rust/samplecli/target/debug/deps/libproc_macro_error-545d52ec6d47de0c.rlib: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs
+
+/home/melonoidz/rust/samplecli/target/debug/deps/proc_macro_error-545d52ec6d47de0c.d: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs
+
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs:

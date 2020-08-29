@@ -1,0 +1,13 @@
+/home/melonoidz/rust/samplecli/target/debug/deps/heck-ce4b712ee2ffc177.rmeta: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/home/melonoidz/rust/samplecli/target/debug/deps/libheck-ce4b712ee2ffc177.rlib: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/home/melonoidz/rust/samplecli/target/debug/deps/heck-ce4b712ee2ffc177.d: /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs:
+/home/melonoidz/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs:
